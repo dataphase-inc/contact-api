@@ -31,9 +31,6 @@ ALLOWED_HOSTS = (
     'http://localhost:3000/'
 )
 
-CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000/contact/',
-)
 
 
 # Application definition
