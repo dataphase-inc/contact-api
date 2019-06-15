@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '127.0.0.1',
-        'NAME': 'contactdb',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'HOST': 'u0zbt18wwjva9e0v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        'NAME': 'xz4x6qto8a7cmelu',
+        'USER': 'f8y5b92mgg3kiyv5',
+        'PASSWORD': 't9zhl3inefbhwtzf',
         'PORT': 3306
     }
 
