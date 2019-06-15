@@ -27,6 +27,9 @@ DEBUG = False
 
 CORS_ORIGIN_ALLOW_ALL = True
 
+ALLOWED_HOSTS = (
+    'http://localhost:3000/'
+)
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000/contact/',
